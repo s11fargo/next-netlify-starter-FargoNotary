@@ -18,6 +18,10 @@ export default function Home() {
       </main>
   
       <body>
+    <a href="https://www.nationalnotary.org/knowledge-center/signing-agent-resources"
+target="_blank"><img src="https://www.nationalnotary.org/Image%20Library/NNA/membership%
+20images/nsa_member_badge.png" alt="Certified Notary Signing Agent" width="100" height="100"
+border="0" title="Certified Notary Signing Agent" /></a>
         <img src="nsa_member_badge.png" width="412" height="455"></img>
       </body>
 

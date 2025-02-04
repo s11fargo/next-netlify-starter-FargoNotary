@@ -18,7 +18,7 @@ export default function Home() {
       </main>
   
       <body>
-        <img src="nsa_member_badge.png" width="516" height="568"></img>
+        <img src="nsa_member_badge.png" width="412" height="455"></img>
       </body>
 
       <Footer />

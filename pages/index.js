@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Fargo Notary" />
         <p className="details">
-          For Notary Needs: Text (818) 370-4234 or Email FargoNotary@yahoo.com 
+          For Notary Needs, Text: (818) 370-4234 or Email: FargoNotary@yahoo.com 
         </p>
       </main>
   

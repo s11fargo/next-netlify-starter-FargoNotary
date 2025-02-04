@@ -5,9 +5,13 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  margin:0 5px;
 }
-
+.footer-links {
+	padding: 0 10px 0 10px; /* padding-top, padding-right, padding-bottom, padding-left */
+	margin-right: 50px;
+}
 .logo {
-  height: 3em;
+  height: 1em;
   margin: 5px;
 }

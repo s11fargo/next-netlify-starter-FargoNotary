@@ -7,7 +7,7 @@ export default function Home() {
     <div className="container">
       <Head>
         <title>Fargo Notary</title>
-        <link rel="icon" href="/StampIcon.png" />
+        <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>

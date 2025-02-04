@@ -6,16 +6,20 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>Fargo Software</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
-        <p className="description">
-          Get started by editing <code>pages/index.js</code>
+        <Header title="Fargo Notary" />
+        <p className="details">
+          For Notary Needs Text (818) 370-4234 or Email: FargoNotary@yahoo.com 
         </p>
       </main>
+  
+      <body>
+        <img src="Software.jpg" width="600" height="400"></img>
+      </body>
 
       <Footer />
     </div>

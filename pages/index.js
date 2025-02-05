@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Fargo Notary" />
         <p className="details">
-          For Notary Needs in Los Angeles, CA
+          For Notary Needs and Loan Signing in Los Angeles, CA
         </p>
         <p className="details">
           Text: (818) 370-4234 or Email: FargoNotary@yahoo.com 

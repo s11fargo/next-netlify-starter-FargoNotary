@@ -13,12 +13,13 @@ export default function Home() {
       <main>
         <Header title="Fargo Notary" />
         <p className="details">
-          For Notary Needs, Text: (818) 370-4234 or Email: FargoNotary@yahoo.com 
+          For Notary Needs in Los Angeles, CA
+          Text: (818) 370-4234 or Email: FargoNotary@yahoo.com 
         </p>
       </main>
   
       <body>
-        <img src="nsa_member_badge.png" width="371" height="410"></img>
+        <img src="nsa_member_badge.png" width="334" height="369"></img>
       </body>
 
       <Footer />
